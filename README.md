@@ -46,11 +46,14 @@ Choice: 6
 
 Choice: 5
 Task to find: Reply to emails
-  Found 'Reply to emails' at position 1.
+Found 'Reply to emails' at position 1.
+
+Choice: 0
+Goodbye!
+
   
 Reflection: The most difficult part of this project to impliment was the in-place reversal. For this implimentation I was forced to keep three pointers
 in the head simulatanously and to preform the four steps in the exactly right order. Another challenge I had was learning about the different preformance
 tradeoffs when comparing linked list and the built in list. Insertion at the head is O(1) here but O(n) for list.
 
-Choice: 0
-Goodbye!
+
