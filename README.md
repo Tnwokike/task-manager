@@ -12,9 +12,7 @@ My role and contribution to this project was to design and impliment the entire 
 with all six operations, the menu-driven CLI, the input validation helpers, and finally the README.
 Here is a sample output:
 
-=========================================
-   Task Manager (Python Linked List)
-=========================================
+
 
 ----- Task Manager -----
 1. Show all tasks
